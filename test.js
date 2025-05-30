@@ -1,1 +1,1 @@
-Notre premier fichier JS
+console.log("Hello World");
